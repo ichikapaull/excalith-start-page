@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "Paul",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -115,23 +115,23 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "",
 						"icon": "mdi:web"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
+						"name": "Monkeytype",
+						"url": "https://monkeytype.com/",
 						"icon": "fa-brands:keybase"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Mail",
+						"url": "https://mail.google.com/mail/u/0/#inbox",
+						"icon": "mdi:email"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Freecodecamp",
+						"url": "https://freecodecamp.org",
+						"icon": "mdi:code-braces"
 					}
 				]
 			},
@@ -146,9 +146,9 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "cs50x",
+						"url": "https://cs50.harvard.edu/x/2024/",
+						"icon": "mdi:book-open-variant"
 					},
 					{
 						"name": "Dev.to",
@@ -169,13 +169,13 @@
 				"links": [
 					{
 						"name": "Twitter",
-						"url": "https://twitter.com",
+						"url": "https://x.com/home",
 						"icon": "mdi:twitter"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name":"Insragram",
+						"url": "https://instagram.com",
+						"icon": "mdi:instagram"
 					},
 					{
 						"name": "Reddit",
@@ -183,21 +183,21 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "youtube",
+						"url": "https://youtube.com",
+						"icon": "mdi:youtube"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "News",
 				"color": "red",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Hackernews",
+						"url": "https://thehackernews.com/",
+						"icon": "fa-brands fa-hacker-news"
 					},
 					{
 						"name": "IGN",
@@ -205,41 +205,37 @@
 						"icon": "mdi:currency-sign"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
+						"name": "Medium",
+						"url": "https://medium.com/",
+						"icon": "fa-brands fa-medium"
 					},
-					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
-					}
+					
 				]
 			},
 			{
-				"title": "Science",
+				"title": "AI",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Claude",
+						"url": "https://claude.ai/new",
+						"icon": "material-symbols:Automation"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "ChatGPT",
+						"url": "https://chatgpt.com/",
+						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Gemini",
+						"url": "https://gemini.google.com/app",
+						
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "V0",
+						"url": "https://v0.dev/chat",
+						
 					}
 				]
 			},
